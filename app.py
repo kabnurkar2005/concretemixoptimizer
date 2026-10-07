@@ -17,7 +17,7 @@ st.write(
 )
 
 st.info(
-    "DEMO VERSION: The strength relationship used here is illustrative. "
+    "The strength relationship used here is illustrative. "
     "Final engineering calculations will be based on the applicable mix-design procedure."
 )
 
